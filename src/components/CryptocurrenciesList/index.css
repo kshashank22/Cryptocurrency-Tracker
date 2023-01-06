@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6px;
+  list-style: none;
+}
+.coin-container {
+  display: flex;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  margin-left: 10px;
+}
+.name {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #ffffff;
+  margin-left: 10px;
+}
+.value-container {
+  display: flex;
+}
+.values {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #ffffff;
+  margin-left: 10px;
+  align-items: center;
+}

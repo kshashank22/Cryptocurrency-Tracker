@@ -1,0 +1,46 @@
+/* Write your CSS code here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 35px;
+  color: #00e7ff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.image {
+  max-width: 600px;
+  height: 200px;
+}
+.table-container {
+  border: 2px solid #00e7ff;
+  border-radius: 5px;
+  background-size: cover;
+  width: 600px;
+}
+.flex-container {
+  display: flex;
+}
+.nav-container {
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-between;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #ffffff;
+  margin-left: 10px;
+}
+.description1 {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #ffffff;
+  margin-right: 10px;
+}
+.loader {
+  text-align: center;
+}
